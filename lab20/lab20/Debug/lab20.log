@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Катя\source\repos\lab20\lab20\main.cpp(87): warning C4715: file: значение возвращается не при всех путях выполнения
+  lab20.vcxproj -> C:\Users\Катя\source\repos\lab20\Debug\lab20.exe
